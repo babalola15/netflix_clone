@@ -1,0 +1,178 @@
+header{
+    background-image: url(./netflix.jpg);
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    opacity:0.85;
+    
+
+    
+
+
+    
+    
+}
+*{
+    bordr: 2px solid red ;
+}
+#net{
+    color: red;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgba(0, 0, 0, 0.685);
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 100px;
+    padding: 7px;
+}
+button{
+    display: inline;
+    float: right;
+    background-color: red;
+    color: white;
+    font-size: 27px;
+    margin-top: 15px;
+    margin-right: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-family: ;
+}
+#h1{
+    display: block;
+    color: white;
+    font-size: 60px;
+    font-weight:800;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 250px;
+    margin-top: 120px;
+    font-size: 2.7em;padding: 0;
+    background-colo: rgba(0, 0, 0, 0.801);
+    margin-right: 100px;
+
+}
+#h4{
+    display:inline;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 28px;
+    margin-left: 450px;
+    margin-top: 20px;
+    padding-right: 0px;
+    background-coor: rgba(0, 0, 0, 0.712);
+}
+h5{
+    display:block;
+    font-size: 28px;
+    color:white;
+    margin-top: 20px;
+    margin-left: 200px;
+    text-align: center;
+    margin-right: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-colr: rgba(0, 0, 0, 0.541);
+}
+body{
+    background-color: black;
+}
+input{
+    margin-right: 2px;
+    margin-left: 390px;
+    border-radius: 10px;
+    padding: 17px 8px;
+    background-color: rgba(0, 0, 0, 0.842);
+    border: 2px solid rgb(133, 131, 131);
+    color: white;
+}
+input::placeholder{
+    font-size: 23px;
+    color: rgb(140, 153, 167);
+}
+#button{
+    border-radius: 10px;
+    display: inline;
+    padding:12px 8px;
+    float: right;
+    margin-right: 358px;
+    margin-top: 5px;
+    margin-bottom: 40px;
+    
+}
+article{
+    background-color: black;
+}
+hr{
+    border:9px solid rgba(155, 153, 153, 0.534)
+
+}
+#right{
+    display: flex;
+    
+    margin-top: 25px;
+}
+h1{
+    color:white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+}
+p{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:cente;
+}
+#flex{
+    display: flex;
+    flex-direction: row-reverse;
+    border-top: 5px solid rgba(192, 192, 192, 0.63);
+    text-align: center;
+}
+#div{
+    text-align: cente;
+    border-top: 5px solid rgba(192, 192, 192, 0.521);
+}
+#p{
+    margin-left: 170px;
+    
+}
+#p1{
+    background-color: rgba(192, 192, 192, 0.233);
+     padding: 20px 25px;
+     padding-left: ;
+     margin-right: 130px;
+}
+h3{
+    color: white;
+    font-size: 23px;
+    background-color: rgb(36, 35, 35);
+    border-radius: 5px;
+    border: 1px solid rgba(192, 192, 192, 0.596);
+    margin-right: 45px;
+    padding: 10px;
+    text-align: center;
+}
+footer{
+    display: flex;
+    font-size: 15px;
+    
+    border-top: 5px solid rgba(192, 192, 192, 0.5);
+}
+#size{
+    font-size: 19px;
+    text-decoration: underline;
+    margin-right: 55px;
+    color: rgba(192, 192, 192, 0.685);
+}
+#margin{
+    margin-left: 200px;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+
+}
+
